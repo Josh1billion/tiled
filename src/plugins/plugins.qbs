@@ -7,6 +7,7 @@ Project {
         "droidcraft",
         "flare",
         "json",
+        "jsonm",
         "lua",
         "python",
         "replicaisland",
